@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/pavle/Documents/PlatformIO/Projects/DSP_Diplomski/.pio/build/esp32dev/CMakeFiles/bootloader
+/Users/pavle/Documents/PlatformIO/Projects/DSP_Diplomski/.pio/build/esp32dev/CMakeFiles/bootloader.rule
+/Users/pavle/Documents/PlatformIO/Projects/DSP_Diplomski/.pio/build/esp32dev/CMakeFiles/bootloader-complete.rule
+/Users/pavle/Documents/PlatformIO/Projects/DSP_Diplomski/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/pavle/Documents/PlatformIO/Projects/DSP_Diplomski/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/pavle/Documents/PlatformIO/Projects/DSP_Diplomski/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/pavle/Documents/PlatformIO/Projects/DSP_Diplomski/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/Users/pavle/Documents/PlatformIO/Projects/DSP_Diplomski/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/pavle/Documents/PlatformIO/Projects/DSP_Diplomski/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/pavle/Documents/PlatformIO/Projects/DSP_Diplomski/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
