@@ -1,3 +1,5 @@
+Whole project description is in Diplomski (3).pdf file
+
 📡 ESP32 DSP Signal Filtering Project
 
 This project demonstrates real-time digital signal processing (DSP) on the ESP32 microcontroller. An analog signal is read via the ADC, filtered using an IIR Butterworth low-pass filter, and the result is sent over the serial port for visualization or further processing.
